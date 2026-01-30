@@ -2,6 +2,18 @@
 
 **Current date reference:** January 30, 2026
 
+## Exterior
+
+### Front Area / Garden
+- New path tiling
+- New gate
+
+### Rear Yard / Garden
+- Lay tiling / paving
+- Minor brickwork repair/pointing/cleaning
+- Render re-painting
+- Move/raise flu outlet
+
 ## Attic / Top Floor
 
 ### Bedroom (Attic)
@@ -46,11 +58,11 @@
 
 ### Dining Room
 - Woodwork preparation + painting
-- Archway renewal/repair
+- Archway replacement
 - New skirting & architraves
-- Window frame repair/replacement
-- Radiator (repair or replacement)
-- Alcove shelving (install or repair)
+- Window frame replacement
+- Radiator replacement
+- Alcove shelving (install)
 - Full redecoration (walls + ceiling)
 - New carpet
 - Electrical fixtures/switches/sockets
@@ -67,16 +79,16 @@
 - Some electrical fixtures/switches/sockets
 - Front door replacement
 - Rear door replacement
-- Radiator (repair or replacement)
+- Radiator replacement
 
 ### Kitchen
 - New flooring
 - Woodwork preparation + painting
 - Window frame repair/replacement
-- Cupboard door replacement + repairs
-- Splashback (install or replace)
+- Cupboard doors replacement + repairs
+- Splashback replace
 - Repaint + minor repairs
-- Radiator (repair or replacement)
+- Radiator replacement
 
 ## Basement
 
@@ -87,13 +99,4 @@
 - Woodwork preparation + painting
 - Renewal + repairs (general)
 - Box in boiler
-- Alcove shelving (install or repair)
-
----
-
-**Notes:**
-- Woodwork = preparation (sanding, filling, priming) + painting (no varnishing or staining) **unless specified as "New woodwork"**, which means supplying and installing new skirting, architraves, doors, etc.
-- Hallway and landing now require fully new woodwork elements and new doors throughout.
-- Many areas involve new skirting, architraves, coving, carpets, and painting as recurring themes.
-- Electrical work appears in several rooms — consider grouping for an electrician quote.
-- Plumbing/damp-related items (attic drainage, basement re-tanking) may need specialist trades.
+- Alcove shelving 
